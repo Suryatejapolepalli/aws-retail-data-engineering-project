@@ -1,0 +1,81 @@
+product_id,product_name,category,brand,stock_quantity
+P0001,Laptop,Electronics,Samsung,839
+P0002,Laptop,Electronics,Adidas,722
+P0003,Laptop,Electronics,Samsung,318
+P0004,Laptop,Electronics,Samsung,949
+P0005,Laptop,Electronics,Sony,212
+P0006,Phone,Electronics,Nike,831
+P0007,Phone,Electronics,Apple,138
+P0008,Phone,Electronics,Adidas,814
+P0009,Phone,Electronics,Samsung,642
+P0010,Phone,Electronics,Adidas,114
+P0011,Tablet,Electronics,Adidas,211
+P0012,Tablet,Electronics,Sony,710
+P0013,Tablet,Electronics,Adidas,907
+P0014,Tablet,Electronics,Sony,422
+P0015,Tablet,Electronics,Samsung,905
+P0016,Headphones,Electronics,LG,876
+P0017,Headphones,Electronics,Adidas,961
+P0018,Headphones,Electronics,LG,239
+P0019,Headphones,Electronics,Adidas,270
+P0020,Headphones,Electronics,Dell,469
+P0021,TV,Electronics,Apple,368
+P0022,TV,Electronics,Sony,766
+P0023,TV,Electronics,Samsung,734
+P0024,TV,Electronics,Adidas,628
+P0025,TV,Electronics,Adidas,676
+P0026,Shoes,Fashion,Dell,771
+P0027,Shoes,Fashion,Nike,932
+P0028,Shoes,Fashion,Dell,320
+P0029,Shoes,Fashion,Adidas,251
+P0030,Shoes,Fashion,Dell,813
+P0031,Jacket,Fashion,Sony,956
+P0032,Jacket,Fashion,Sony,87
+P0033,Jacket,Fashion,Nike,430
+P0034,Jacket,Fashion,Nike,280
+P0035,Jacket,Fashion,Apple,963
+P0036,T-Shirt,Fashion,Samsung,731
+P0037,T-Shirt,Fashion,LG,948
+P0038,T-Shirt,Fashion,LG,766
+P0039,T-Shirt,Fashion,Adidas,115
+P0040,T-Shirt,Fashion,LG,964
+P0041,Jeans,Fashion,Adidas,895
+P0042,Jeans,Fashion,LG,801
+P0043,Jeans,Fashion,Apple,946
+P0044,Jeans,Fashion,Dell,162
+P0045,Jeans,Fashion,Adidas,284
+P0046,Chair,Home,LG,680
+P0047,Chair,Home,Adidas,392
+P0048,Chair,Home,Samsung,956
+P0049,Chair,Home,Adidas,484
+P0050,Chair,Home,LG,235
+P0051,Table,Home,Sony,154
+P0052,Table,Home,Adidas,769
+P0053,Table,Home,Nike,664
+P0054,Table,Home,Samsung,606
+P0055,Table,Home,LG,862
+P0056,Lamp,Home,Apple,986
+P0057,Lamp,Home,Sony,985
+P0058,Lamp,Home,Dell,134
+P0059,Lamp,Home,Adidas,231
+P0060,Lamp,Home,Adidas,670
+P0061,Sofa,Home,LG,393
+P0062,Sofa,Home,Samsung,86
+P0063,Sofa,Home,Adidas,569
+P0064,Sofa,Home,LG,783
+P0065,Sofa,Home,Samsung,165
+P0066,Football,Sports,LG,610
+P0067,Football,Sports,Adidas,731
+P0068,Football,Sports,Sony,405
+P0069,Football,Sports,Dell,380
+P0070,Football,Sports,Adidas,194
+P0071,Cricket Bat,Sports,LG,634
+P0072,Cricket Bat,Sports,Sony,843
+P0073,Cricket Bat,Sports,Apple,571
+P0074,Cricket Bat,Sports,Nike,426
+P0075,Cricket Bat,Sports,Adidas,895
+P0076,Tennis Racket,Sports,LG,671
+P0077,Tennis Racket,Sports,LG,215
+P0078,Tennis Racket,Sports,LG,586
+P0079,Tennis Racket,Sports,Dell,403
+P0080,Tennis Racket,Sports,Dell,965
