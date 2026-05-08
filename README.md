@@ -11,7 +11,7 @@ The project demonstrates scalable raw-to-curated ETL pipelines, data validation 
 
 ## Architecture
 
-[Add Architecture Diagram Here]
+<img width="1672" height="941" alt="AWS architecture" src="https://github.com/user-attachments/assets/02318481-e49e-47e8-ac67-7493bff635f9" />
 
 ---
 
